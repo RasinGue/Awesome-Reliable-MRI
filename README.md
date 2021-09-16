@@ -14,7 +14,7 @@ Awesome list of papers and software that I use to do research in reliable (robus
 
 Traditional:
 
-* [A Review on Image Reconstruction through MRI k-Space Data](http://j.mecs-press.net/ijigsp/ijigsp-v7-n7/IJIGSP-V7-N7-6.pdf), 2015, ([note]())
+* [A Review on Image Reconstruction through MRI k-Space Data](http://j.mecs-press.net/ijigsp/ijigsp-v7-n7/IJIGSP-V7-N7-6.pdf), 2015, ([note](https://github.com/RasinGue/Awesome-Reliable-MRI/blob/main/Notes/Reconstructionthrough_MRI_k_space_Data.pdf))
 
 DL-Based:
 
