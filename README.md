@@ -12,7 +12,7 @@ Awesome list of papers and software that I use to do research in reliable (robus
 
 ### Review
 
-* [Deep Learning for Biomedical Image Reconstruction: A Survey](https://arxiv.org/pdf/2002.12351.pdf), 2020
+* [Deep Learning for Biomedical Image Reconstruction: A Survey](https://arxiv.org/pdf/2002.12351.pdf), 2020, ([note]())
 
 ### Theory
 
@@ -24,7 +24,7 @@ Awesome list of papers and software that I use to do research in reliable (robus
 * [On instabilities of deep learning in image reconstruction and the potential costs of AI](https://www.pnas.org/content/pnas/117/48/30088.full.pdf), 2020
 * [Addressing the false negative problem of deep learning MRI reconstruction models by adversarial attacks and robust training](http://proceedings.mlr.press/v121/cheng20a/cheng20a.pdf), 2020
 * [On hallucinations in tomographic image reconstruction](https://arxiv.org/abs/2012.00646), 2021
-* [Measuring Robustness in Deep Learning Based Compressive Sensing](https://arxiv.org/abs/2102.06103), 2021
+* [Measuring Robustness in Deep Learning Based Compressive Sensing](https://arxiv.org/abs/2102.06103), 2021, ([repo](https://github.com/MLI-lab/Robustness-CS)), 
 * [Reliability of radiomics features due to image reconstruction using a standardized T2-weighted pulse sequence for MR-guided radiotherapy: An anthropomorphic phantom study](https://onlinelibrary.wiley.com/doi/abs/10.1002/mrm.28650), 2021
 
 ### Methods
@@ -45,4 +45,6 @@ Awesome list of papers and software that I use to do research in reliable (robus
 
 ## Data
 
-* TODO
+* [FastMRI](https://fastmri.org/dataset)  by NYU Langone Health, ([paper](https://arxiv.org/abs/1811.08839/)), ([repo](https://github.com/facebookresearch/fastMRI/))
+* [MRIdata](http://mridata.org/) by UC Berkeley and Stanford's Lucile Packard Children's Hospital
+
