@@ -22,8 +22,7 @@ DL-Based:
 
 ### Theory
 
-* [Some investigations on robustness of deep learning in limited angle tomography](https://www5.informatik.uni-erlangen.de/Forschung/Publikationen/2018/Huang18-SIO.pdf), 2018
-* [Risk Quantification in Deep MRI Reconstruction](https://openreview.net/pdf?id=ccBn_ZIuRHT), 2020
+* [Risk Quantification in Deep MRI Reconstruction](https://openreview.net/pdf?id=ccBn_ZIuRHT), 2020, ([git](https://github.com/MortezaMardani/GAN-Hallucination/tree/VAE-GAN)), ([note]())
 * [Solving Inverse Problems With Deep Neural Networks--Robustness Included?](https://arxiv.org/abs/2011.04268), 2020
 * [Uncertainty Quantification in Deep MRI Reconstruction](https://arxiv.org/abs/1901.11228), 2020
 * [The troublesome kernel: why deep learning for inverse problems is typically unstable](https://arxiv.org/abs/2001.01258), 2020
