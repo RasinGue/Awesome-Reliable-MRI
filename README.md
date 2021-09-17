@@ -22,7 +22,7 @@ DL-Based:
 
 ### Theory
 
-* [Risk Quantification in Deep MRI Reconstruction](https://openreview.net/pdf?id=ccBn_ZIuRHT), 2020, ([git](https://github.com/MortezaMardani/GAN-Hallucination/tree/VAE-GAN)), ([note]())
+* [Risk Quantification in Deep MRI Reconstruction](https://openreview.net/pdf?id=ccBn_ZIuRHT), 2020, ([git](https://github.com/MortezaMardani/GAN-Hallucination/tree/VAE-GAN)), ([note](https://github.com/RasinGue/Awesome-Reliable-MRI/blob/main/Notes/Risk_Quantification_in_Deep_MRI_Reconstruction.pdf))
 * [Solving Inverse Problems With Deep Neural Networks--Robustness Included?](https://arxiv.org/abs/2011.04268), 2020
 * [Uncertainty Quantification in Deep MRI Reconstruction](https://arxiv.org/abs/1901.11228), 2020
 * [The troublesome kernel: why deep learning for inverse problems is typically unstable](https://arxiv.org/abs/2001.01258), 2020
